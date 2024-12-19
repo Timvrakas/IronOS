@@ -214,7 +214,7 @@
 #define POWER_LIMIT_STEPS 2
 #define OP_AMP_GAIN_STAGE OP_AMP_GAIN_STAGE_TS80
 #define TEMP_uV_LOOKUP_TS80
-#define USB_PD_VMAX 11.5 // Maximum voltage for PD to negotiate
+#define USB_PD_VMAX 11 // Maximum voltage for PD to negotiate
 
 #define TIP_THERMAL_MASS 40
 #define TIP_RESISTANCE   40 // x10 ohms, 4.5 typical for ts80 tips
