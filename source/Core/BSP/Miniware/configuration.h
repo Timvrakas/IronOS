@@ -217,7 +217,7 @@
 #define USB_PD_VMAX 12 // Maximum voltage for PD to negotiate
 
 #define TIP_THERMAL_MASS 40
-#define TIP_RESISTANCE   45 // x10 ohms, 4.5 typical for ts80 tips
+#define TIP_RESISTANCE   40 // x10 ohms, 4.5 typical for ts80 tips
 
 #define LIS_ORI_FLIP
 #define OLED_FLIP
